@@ -52,7 +52,6 @@ html, body {
     width: 100%; /* Adjusted to 100% to be more flexible */
     max-width: 35%; /* To ensure the image doesn't get too large */
     height: auto;
-    border-radius: 500px;
     filter: drop-shadow(10px 10px 0px rgba(204, 204, 204, 0.384));
     transition: transform 0.6s ease-in-out, box-shadow 0.6s ease-in-out;
 }
